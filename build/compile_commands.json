@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/Alvar/OneDrive/Documentos/SemestreVI/Graficas/Lab2/src -g -std=gnu++11 -o CMakeFiles\\MySDLProject.dir\\WinMain.cpp.obj -c C:\\Users\\Alvar\\OneDrive\\Documentos\\SemestreVI\\Graficas\\Lab2\\WinMain.cpp",
+  "file": "C:\\Users\\Alvar\\OneDrive\\Documentos\\SemestreVI\\Graficas\\Lab2\\WinMain.cpp",
+  "output": "CMakeFiles\\MySDLProject.dir\\WinMain.cpp.obj"
+}
+]
