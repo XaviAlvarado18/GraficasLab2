@@ -21,8 +21,8 @@ struct Color {
 };
 
 Color framebuffer[FRAMEBUFFER_SIZE];
-Color clearColor = {0, 0, 0, 255};
-Color currentColor = {255, 255, 255, 255};
+Color clearColor = {61, 0, 80, 1};
+Color currentColor = {255, 225, 69, 1};
 
 void clear() {
     for (int i = 0; i < FRAMEBUFFER_SIZE; i++) {
